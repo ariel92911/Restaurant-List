@@ -6,7 +6,7 @@
 1. 打開終端機，輸入以下指令下載restaurant_list資料夾
 
 ```
-$ git clone https://github.com/a62262002/restaurant_list.git
+$ git clone https://github.com/ariel92911/Restaurant-List.git
 ```
 
 2. 輸入以下指令安裝npm套件
