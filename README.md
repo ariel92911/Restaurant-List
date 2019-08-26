@@ -3,23 +3,31 @@
 
 
 ## Installing
-1. 打開終端機，輸入以下指令下載restaurant_list資料夾
+1. 打開終端機，按照步驟 2~5 在終端機輸入指令 ( 指令不含 $ 符號 )
+
+
+2. 下載 Restaurant_List 資料夾 ( 下載位置會依你打開終端機的位置而定 )
 
 ```
 $ git clone https://github.com/ariel92911/Restaurant-List.git
 ```
 
-2. 輸入以下指令安裝npm套件
+3. 進入 Restaurant_List 資料夾
+```
+$ cd Restaurant_List
+```
+
+4. 安裝npm套件
 ```
 $ npm install
 ```
 
-3. 輸入以下指令執行專案
+5. 執行專案
 ```
 $ npm run dev
 ```
 
-4. 在瀏覽器輸入以下網址以查看餐廳清單網站
+6. 在瀏覽器輸入以下網址以查看餐廳清單網站
 ```
 http://localhost:3000
 ```
